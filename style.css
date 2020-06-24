@@ -105,7 +105,8 @@ body{
 }
 .card1-links a{
   text-decoration: none;
-  padding: 20px
+  padding: 20px;
+  color:black;
 }
 .card1-links:hover{
   background-color: #DCDCDC;
